@@ -36,18 +36,18 @@ python test.py
 
 ## Results (Qualitative results)
 
-![](G:\Submit\DAHNet\results\Tab-1.png)
+![](./results/Tab-1.png)
 
-![](G:\Submit\DAHNet\results\Tab-2.png)
+![](./results/Tab-2.png)
 
-![](G:\Submit\DAHNet\results\Tab-3.png)
+![](./results/Tab-3.png)
 
-![](G:\Submit\DAHNet\results\Tab-4.png)
+![](./results/Tab-4.png)
 
 ## Results (Qualitative results)
 
-![](G:\Submit\DAHNet\results\Fig-3.png)
+![](./results/Fig-3.png)
 
-![](G:\Submit\DAHNet\results\Fig-4.png)
+![](./results/Fig-4.png)
 
-![](G:\Submit\DAHNet\results\Fig-5.png)
+![](./results/Fig-5.png)
