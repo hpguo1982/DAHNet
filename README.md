@@ -4,9 +4,9 @@ DAHNet is a novel encoder-decoder architecture for th intracerebral hemorrhage s
 
 ## DAHNet Architecture
 
-![](./results/Fig-2.png)
+![](./results/Fig-1.png)
 
-*Figure 2 The architecture of the proposed DAHNet.*
+*FIGURE 1 The architecture of the proposed DAHNet.*
 
 ## Datasets
 
@@ -16,9 +16,9 @@ more information refers to [Computed Tomography Images for Intracranial Hemorrha
 
 The dataset includes with various types of cerebral hemorrhages, including intraventricular hemorrhage (IVH), parenchymal hemorrhage (IPH), subarachnoid hemorrhage (SAH), epidural hemorrhage (EDH), and subdural hemorrhage (SDH), as shown in the following figure.
 
-![](./results/Fig-1.png)
+![](./results/Fig-5.png)
 
-*Figure 1 Images with the different types of ICH: (a) No Hemorrhage; (b) Intraventricular (IVH); (c) Intraparenchymal (IPH); (d) Subarachnoid (SAH); (e) Epidural (EDH); (f) Subdural (SDH).*
+*FIGURE 5: Images with the different types of ICH: (a) No Hemorrhage; (b) Intraventricular (IVH); (c) Intraparenchymal (IPH); (d) Subarachnoid (SAH); (e) Epidural (EDH); (f) Subdural (SDH).*
 
 ## Configs
 
@@ -50,18 +50,12 @@ python test.py
 
 ## Results (Qualitative results)
 
-![](./results/Fig-5.png)
-
-*Figure 5 The training and test loss for the proposed method.*
-
----
-
 ![](./results/Fig-6.png)
 
-*Figure 6 The evaluation metrics used during the testing phase.*
+*FIGURE 6: Training and test procedure. (left) The training and test loss for the proposed method; (right) The evaluation metrics used during the testing phase.*
 
 ---
 
 ![](./results/Fig-7.png)
 
-*Figure 7 Details of  tiny lesion cases are shown.*
+*FIGURE 7: Visual segmentation results for small lesion cases. *
